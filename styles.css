@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+header{
+    color:deepskyblue;
+}
+#nav-actor{
+    color:blue;
+}
+#nav-quote{
+    color:blueviolet;
+}
